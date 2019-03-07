@@ -1,8 +1,6 @@
-# Highlights - Jekyll Theme
+# Technocation Website
 
-A Jekyll version of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
-
-![Highlights Theme](assets/images/highlights.jpg "Highlights Theme")
+This site is using a Jekyll version of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
 
 # How to Use
 

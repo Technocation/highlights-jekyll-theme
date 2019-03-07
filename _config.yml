@@ -2,7 +2,7 @@
 title: Technocation
 email: donate@technocation.org
 description: Supporting education for IT profesionals.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/site.staging" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
